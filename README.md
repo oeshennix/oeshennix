@@ -12,7 +12,7 @@ doing javascript for about 3 years but haven't look super deep into it.
 
 Vim user.  I got tricked, now I can't stop using it as it feels too good.
 
-
+---
 I have been trying to learn:
 C++, Rust, python, at&t/unix asm.
 
