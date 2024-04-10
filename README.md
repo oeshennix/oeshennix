@@ -7,7 +7,9 @@ A javascript developer who basically does nothing, **BUT!**
 
 ## More about me
 started off roblox studio 5 years ago(I hate telling people about this).
+
 doing javascript for about 3 years but haven't look super deep into it.
+
 Vim user.  I got tricked, now I can't stop using it as it feels too good.
 
 
