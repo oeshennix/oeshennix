@@ -15,6 +15,7 @@ neovim user.  I got tricked, now I can't stop using it as it feels too good.
 
 I now see the headache of javascript. so I have started to use to lua and C++ more often (but still use javascript for web apps).  So you'll see alot more lua contributions from me or even C++ repositories.
 I do not write code much nowadays so I guess we'll have to find out.
+
 ---
 I have been trying to learn:
 C++, Rust, python, at&t/unix asm.
