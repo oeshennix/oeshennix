@@ -7,8 +7,9 @@ A javascript developer who basically does nothing, **BUT!**
 * basic crappy *express* project
 
 ## More about me
-started off roblox studio 7 years ago (2018, I hate telling people about this).
-doing javascript for about 6 years (2019) but haven't look super deep into it.
+started off roblox studio 8 years ago (2017, I hate telling people about this).
+doing javascript for about 8 years (2017) but haven't look super deep into it.
+<!-- changed this line because I found a project On my old pc which changed my perception of time !-->
 C++ 6 months (2024)
 
 neovim user.  I got tricked, now I can't stop using it as it feels too good.
